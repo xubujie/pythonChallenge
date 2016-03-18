@@ -26,5 +26,8 @@ trans = string.maketrans(a,b)
 print input.translate(trans)
 
 
+print "map".translate(trans)
+
+
 
 
